@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Apna-Bus/static/css/main.ad07ade0.css",
-    "main.js": "/Apna-Bus/static/js/main.07fa5cc7.js",
+    "main.js": "/Apna-Bus/static/js/main.565ba539.js",
     "static/js/453.13b0c4d3.chunk.js": "/Apna-Bus/static/js/453.13b0c4d3.chunk.js",
     "static/media/logo.svg": "/Apna-Bus/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Apna-Bus/index.html",
     "main.ad07ade0.css.map": "/Apna-Bus/static/css/main.ad07ade0.css.map",
-    "main.07fa5cc7.js.map": "/Apna-Bus/static/js/main.07fa5cc7.js.map",
+    "main.565ba539.js.map": "/Apna-Bus/static/js/main.565ba539.js.map",
     "453.13b0c4d3.chunk.js.map": "/Apna-Bus/static/js/453.13b0c4d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad07ade0.css",
-    "static/js/main.07fa5cc7.js"
+    "static/js/main.565ba539.js"
   ]
 }
